@@ -135,10 +135,11 @@ img {
 .concertpic{
     width: 500px;
     height: auto;
-    margin-top: 10px;
+    margin-top: 30px;
     margin-left: 500px;
     border: 10px solid;
     border-color:  #fbb03b;
+    
 }
 
 .concertpic:hover{
